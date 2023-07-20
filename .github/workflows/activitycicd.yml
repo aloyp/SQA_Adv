@@ -14,7 +14,7 @@ jobs:
       - name: Checkout public repo
         uses: actions/checkout@v2
         with:
-          repository: kahfai89/first-repo
+          repository: aloyp/SQA_Adv
           ref: main
 
       - name: Set up Python
